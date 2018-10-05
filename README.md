@@ -1,2 +1,2 @@
 # example_b7
-This is our example
+This was changed in the GitBash command window, wow isn't that neat!
